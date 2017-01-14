@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cherie&#39;s B612</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/lijiacherie/lijiacherie.github.io.git/"/>
+  <updated>2017-01-14T15:25:35.000Z</updated>
+  <id>https://github.com/lijiacherie/lijiacherie.github.io.git/</id>
+  
+  <author>
+    <name>Cherie Li</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello, my B612 world</title>
+    <link href="https://github.com/lijiacherie/lijiacherie.github.io.git/2017/01/13/Hello,%20my%20B612%20world/"/>
+    <id>https://github.com/lijiacherie/lijiacherie.github.io.git/2017/01/13/Hello, my B612 world/</id>
+    <published>2017-01-13T13:26:56.000Z</published>
+    <updated>2017-01-14T15:25:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>经过艰苦卓绝的奋斗，我的<strong>B612</strong>啊！终于弄好了！！！</p>
+<a id="more"></a>
+<p>细节上还有很多想要更完善的，不过现在我已经很满意啦哈哈哈。为一个小白的热情鼓掌!</p>
+<p>有兴趣的话大家帮我试试评论和留言功能吧么么哒</p>
+<p>有其他好的建议也欢迎提给我，欢迎你们常来我的B612玩耍哈哈^^</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;经过艰苦卓绝的奋斗，我的&lt;strong&gt;B612&lt;/strong&gt;啊！终于弄好了！！！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="like a geek" scheme="https://github.com/lijiacherie/lijiacherie.github.io.git/tags/like-a-geek/"/>
+    
+  </entry>
+  
+</feed>
